@@ -1,0 +1,2 @@
+This file is created to test the build trigger on jenkins after adding the required configuration on mobaxterm
+installed java, maven and updated jenkins with the required path settings.
